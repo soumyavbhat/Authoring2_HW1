@@ -5,13 +5,21 @@ var dynamicContent = {
 			headline : "Spring",
 
 			images : [
-				"spring_1.jpg",
-				"spring_2.jpg"
+				"spring_8.jpg",
+				"spring_7.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg",
+				"spring_5.jpg",
+				"spring_6.jpg"
 			],
 
 			imageDescription : [
-				"This is a bunch of butterflies",
-				"This is a duck."
+				"Butterfly and flowers",
+				"A chattering of chicks",
+				"Cherry blossom in spring",
+				"A bird on the twig of a Cherry Blossom",
+				"Bee collecting some nectar",
+				"Sunflower isolated"
 			]
 		},
 
@@ -21,8 +29,21 @@ var dynamicContent = {
 			headline : "Summer",
 
 			images : [
-				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_7.jpg",
+				"summer_8.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg",
+				"summer_5.jpg",
+				"summer_6.jpg"
+			],
+
+			imageDescription : [
+				"Blue lagoon",
+				"Beach and sun bathe",
+				"Shades before the sunset",
+				"Palm trees and some sand",
+				"Watermelon redness",
+				"Cooling off with some ice-cream"
 			]
 		},
 
@@ -32,8 +53,21 @@ var dynamicContent = {
 			headline : "Autumn",
 
 			images : [
-				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_7.jpg",
+				"autumn_8.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg",
+				"autumn_5.jpg",
+				"autumn_6.jpg"
+			],
+
+			imageDescription:[
+				"Vintage car",
+				"Squirrel on the bench",
+				"Colouration on leaves, ready for autumn",
+				"Leaf - red",
+				"Riverside during fall",
+				"Light rays in autumn"
 			]
 		},
 
@@ -43,8 +77,20 @@ var dynamicContent = {
 			headline : "Winter",
 
 			images : [
-				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_7.jpg",
+				"winter_8.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg",
+				"winter_5.jpg",
+				"winter_6.jpg"
+			],
+			imageDescription:[
+				"Wolf howling",
+				"Red Ridinghood depection",
+				"Hot chocolate for the cold",
+				"Aurora Borealis in the winter",
+				"Frozen twigs in winter",
+				"Frozen leaf"
 			]
 		}
 	};

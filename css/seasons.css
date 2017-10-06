@@ -55,7 +55,8 @@ section { margin-top: 15px; background-color: #FFF; }
 
 .subImagesContainer { padding: 0; }
 
-.thumb { height: 90px; margin: 8px; cursor: pointer; }
+/*.thumb { height: 80px; margin: 8px 13px 8px 0; cursor: pointer; float: left; }*/
+.thumb { width: 90px; margin: 7px; cursor: pointer; float: left; }
 
 .lightbox{
 	position: absolute;
@@ -77,4 +78,15 @@ cursor: pointer;
 
 .lightbox-img{
 	display: block;
+	margin: 0 auto;
+	margin-top: 10%;
+	width: 500px;
+}
+
+.img-desc{
+	margin-top: 2%;
+ text-align: center;
+	width: 100%;
+ color: rgba(255,255,255,.8);
+ font-size: 15pt;
 }

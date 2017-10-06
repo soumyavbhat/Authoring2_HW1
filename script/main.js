@@ -72,6 +72,7 @@ function closeLightbox(){
   // debugger;
   let lightbox = document.querySelector('.lightbox');
   lightbox.style.display = 'none';
+  document.body.style.overflow = 'visible';
 
 }
 
